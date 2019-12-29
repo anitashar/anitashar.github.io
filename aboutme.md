@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My Data Science Journey
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Anita Sharma. I have done my masters of statistics from India.I am a goldmedalist.:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+-hhh
+-nn
 
 What else do you need?
 
