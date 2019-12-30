@@ -4,7 +4,7 @@ title: About me
 subtitle: My Data Science Journey
 ---
 
-My name is Anita Sharma. I have done my masters of statistics from India.I am a goldmedalist.:
+My name is Anita Sharma. I have done my masters of statistics from India.Presently working as a client service manager at logistic company.
 
 -hhh
 -nn
