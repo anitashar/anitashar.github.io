@@ -4,13 +4,10 @@ title: About me
 subtitle: My Data Science Journey
 ---
 
-My name is Anita Sharma. I have done my masters of statistics from India.Presently working as a client service manager at logistic company.I want to become a data scientist as i want to learn how to apply statistics in this field.
+My name is Anita Sharma. I have done my masters of statistics from India.Presently working as a client service manager at logistic company.I want to become a data scientist as I want to learn how to apply statistics in this field.I am very curious to learn about data to gain insight about data.
 
--hhh
--nn
 
-What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
